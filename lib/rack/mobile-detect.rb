@@ -122,7 +122,7 @@ module Rack
                    'x320|x240|j2me|sgh|portable|sprint|docomo|kddi|softbank|android|mmp|' +
                    'pdxgw|netfront|xiino|vodafone|portalmmm|sagem|mot-|sie-|ipod|up\\.b|' +
                    'webos|amoi|novarra|cdm|alcatel|pocket|ipad|iphone|mobileexplorer|' +
-                   'mobile', true)
+                   'mobile|kftt', true)
 
       # A URL that specifies a single redirect-url for any device
       @redirect_to = options[:redirect_to]
